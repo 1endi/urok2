@@ -38,4 +38,3 @@ while True:
         print(result)
         break
 
-
